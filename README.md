@@ -1,0 +1,1 @@
+# Classification-of-Natural-Scenes-using-transfer-learning-CNN
