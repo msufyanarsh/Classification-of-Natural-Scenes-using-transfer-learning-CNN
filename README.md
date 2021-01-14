@@ -2,7 +2,7 @@
 # Introduction:
   This repository contains Files required to reproduce the results image classification of natural images using CNN, Resnet50 and transfer learning.
 
-Two approaches were used to get the results. In first approach,categorical cross entropy loss function and SGD optimizer along with data augmentation was used including width shift, shear, height shift, rotation and horizontal flipping. While in second implementation, Images were resized to the size of 224,224. Optimizer used was Adam with low learning rate value 2e-5. Details regarding settings, attempts, and the 
+Two approaches were used to get the results. In first approach,categorical cross entropy loss function and SGD optimizer along with data augmentation was used including width shift, shear, height shift, rotation and horizontal flipping. While in second implementation, Images were resized to the size of 224,224. Optimizer used was Adam with low learning rate value 2e-5. Details regarding settings, attempts, and the methodology can be found in the report attached in the repository.
 # Dataset:
    Dataset used is of natural scenes.This Data contains around 25k images of size 150x150 distributed under 6 categories
    i.e. Buildings, Forest, Glacier , Mountain, Sea and Street. Dataset is used as
