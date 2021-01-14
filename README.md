@@ -10,13 +10,16 @@
   3. Test set = 7k+ 150x150 Images in seg_pred folder as test spread.
 Training and validation set can be downloaded from :  https://drive.google.com/drive/folders/1AD1qeSb1OnafPxIR9fE79d0mkIuD0I5i?usp=sharing
 Test Set can be downloaded from : https://drive.google.com/drive/folders/1LPsZ8Pi8Qd8NTN2hgSZu7pC2pNZpO73f?usp=sharing
+Test.npy link: https://drive.google.com/file/d/1ULbGjA8p968bPVookUqTUMRFKNyNj7Dp/view?usp=sharing
+train.npy link: https://drive.google.com/file/d/1AHrGfl6LivoL-gKcjzNKBEL75R6Qfbx7/view?usp=sharing
+Val.npy link:  https://drive.google.com/file/d/1w9l0b3GUCMawoYdigeDWvk_nLFYi8bjv/view?usp=sharing
 # Reproducing results using First Method(SGD optimizer and data augmentation)
   1. Download the dataset and extract in the google drive.
   2. The code is produced using colab so for better replication of the results, run this code on colab with the gpu available from google.
   3. After opening the code in colab, dataset needs to be loaded into the colab. mount the drive using the access link and load the data sets.
   4. Train the model, and move further with the code blocks.
  # Reproducing results using Adam, and resizing dataset to 224*224
-  1. I loaded and saved the dataset as npy and made them available in repository. save them into the google drive.
+  1. I loaded and saved the dataset as npy, Download and save them into the google drive.
   3. After opening the code in colab, load the npy files.
   4. Run the code, train the model, and move further with the code blocks.
   
