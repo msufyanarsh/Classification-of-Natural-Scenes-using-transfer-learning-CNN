@@ -43,8 +43,9 @@ Pretrained weights.h5 link for implementation2 : https://drive.google.com/file/d
 ![](Results/class_rep_f.JPG)
 
 Test Accuracy:
+
 ![](Results/testaccf.JPG)
 
-Visual Classification results:
+# Visual Classification results:
 
 ![](Results/CLASSREP.png)
