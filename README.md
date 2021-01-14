@@ -52,3 +52,9 @@ Test Accuracy:
 # Visual Classification results:
 
 ![](Results/CLASSREP.png)
+# 2nd implementation
+in second implementation adam was used along with data images being resized to 224*224 as resnet was used so accuracy of 90.13 was achieved. Results can be seen in the 
+2nd implementation file.
+# Discussions
+
+Data augmentation helped us in achieving the better accuracy of upto 90%.
