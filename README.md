@@ -13,7 +13,9 @@ Dataset can be downloaded from: https://drive.google.com/drive/folders/1oTlf7Hly
 
 
 Test.npy link: https://drive.google.com/file/d/1ULbGjA8p968bPVookUqTUMRFKNyNj7Dp/view?usp=sharing
+
 train.npy link: https://drive.google.com/file/d/1AHrGfl6LivoL-gKcjzNKBEL75R6Qfbx7/view?usp=sharing
+
 Val.npy link:  https://drive.google.com/file/d/1w9l0b3GUCMawoYdigeDWvk_nLFYi8bjv/view?usp=sharing
 # Reproducing results using First Method(SGD optimizer and data augmentation)
   1. Download the dataset and extract in the google drive.
