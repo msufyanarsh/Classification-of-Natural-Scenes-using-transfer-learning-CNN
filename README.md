@@ -19,19 +19,20 @@ train.npy link: https://drive.google.com/file/d/1AHrGfl6LivoL-gKcjzNKBEL75R6Qfbx
 
 Val.npy link:  https://drive.google.com/file/d/1w9l0b3GUCMawoYdigeDWvk_nLFYi8bjv/view?usp=sharing
 
-Approach 1 weights.h5 link:  https://drive.google.com/file/d/1-2HjiiimAPgvxc50qNAXygugqsJMy3EV/view?usp=sharing
+Approach 1 weights "weights_of_mdl0.41.h5" link:  https://drive.google.com/file/d/1-2HjiiimAPgvxc50qNAXygugqsJMy3EV/view?usp=sharing
 
-Pretrained weights.h5 link for implementation2 : https://drive.google.com/file/d/1DJFJkQdxp4gEvnN_Bcz2uc4zf9Zc78vj/view?usp=sharing
+Pretrained weights "dbs-frozen.h5" link for implementation2 : https://drive.google.com/file/d/1DJFJkQdxp4gEvnN_Bcz2uc4zf9Zc78vj/view?usp=sharing
 # Reproducing results using First Method(SGD optimizer and data augmentation)
   1. Download the dataset and extract in the google drive.
   2. The code is produced using colab so for better replication of the results, run this code on colab with the gpu available from google.
   3. After opening the code in colab, dataset needs to be loaded into the colab. mount the drive using the access link and load the data sets.
   4. Train the model, and move further with the code blocks.
+  5. To reproduce the results, download weights file via link(weights_of_mdl0.41.h5 link) and load model weights by typing load model command below training code block. move further in the code blocks and check accuracy.(you dont have to retrain the model for this)
  # Reproducing results using Adam, and resizing dataset to 224*224
   1. I loaded and saved the dataset as npy, Download and save them into the google drive.
-  3. After opening the code in colab, load the npy files.
-  4. Run the code, train the model, and move further with the code blocks.
-  5. To reproduce the results, download weights file and load model weights by for impl 2. move further in the code blocks and check accuracy.(you dont have to retrain the model for this)
+  2. After opening the code in colab, load the npy files.
+  3. Run the code, train the model, and move further with the code blocks.
+  4. To reproduce the results, download weights file and load model weights by for impl 2. move further in the code blocks and check accuracy.(you dont have to retrain the model for this)
   
 # Results
 ![](Results/acc_f.png)
