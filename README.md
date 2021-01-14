@@ -8,8 +8,10 @@
   1. Training set = 14k+ 150x150 Images in seg_train folder for training spread.
   2. Validation set = 3k+ 150x150 Images in seg_test folder for cross-validation spread.
   3. Test set = 7k+ 150x150 Images in seg_pred folder as test spread.
-Training and validation set can be downloaded from :  https://drive.google.com/drive/folders/1AD1qeSb1OnafPxIR9fE79d0mkIuD0I5i?usp=sharing
-Test Set can be downloaded from : https://drive.google.com/drive/folders/1LPsZ8Pi8Qd8NTN2hgSZu7pC2pNZpO73f?usp=sharing
+  
+Dataset can be downloaded from: https://drive.google.com/drive/folders/1oTlf7HlyrhNSn_WRFbEqq4mAZYZLTAJR?usp=sharing
+
+
 Test.npy link: https://drive.google.com/file/d/1ULbGjA8p968bPVookUqTUMRFKNyNj7Dp/view?usp=sharing
 train.npy link: https://drive.google.com/file/d/1AHrGfl6LivoL-gKcjzNKBEL75R6Qfbx7/view?usp=sharing
 Val.npy link:  https://drive.google.com/file/d/1w9l0b3GUCMawoYdigeDWvk_nLFYi8bjv/view?usp=sharing
