@@ -19,6 +19,8 @@ train.npy link: https://drive.google.com/file/d/1AHrGfl6LivoL-gKcjzNKBEL75R6Qfbx
 
 Val.npy link:  https://drive.google.com/file/d/1w9l0b3GUCMawoYdigeDWvk_nLFYi8bjv/view?usp=sharing
 
+Approach 1 weights.h5 link:  https://drive.google.com/file/d/1-2f6uTcayEhYmAE9B6Nhl8bn3fS0JPtt/view?usp=sharing
+
 Pretrained weights.h5 link for implementation2 : https://drive.google.com/file/d/1DJFJkQdxp4gEvnN_Bcz2uc4zf9Zc78vj/view?usp=sharing
 # Reproducing results using First Method(SGD optimizer and data augmentation)
   1. Download the dataset and extract in the google drive.
